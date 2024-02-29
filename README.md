@@ -173,6 +173,74 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 Assign Permissions: ost-config.php
 Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
+Continue Setting up osTicket in the browser (click Continue)
+Name Helpdesk
+Default email (receives email from customers)
+
+
+
+<br />
+
+
+
+<p>
+<img src="https://imgur.com/dvTub2J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the Installation Files, download and install HeidiSQL.
+Open Heidi SQL
+Create a new session, root/Password1
+Connect to the session
+Create a database called “osTicket”
+
+
+
+
+<br />
+
+
+
+<p>
+<img src="https://imgur.com/hIgqN6q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Continue Setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
+
+
+<br />
+
+
+<p>
+<img src="https://imgur.com/R4WFbd7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Delete: C:\inetpub\wwwroot\osTicket\setup
+It's already deleted here
+
+<br />
+
+
+
+<p>
+<img src="https://imgur.com/8258cyJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+
+<br />
+
+
+
+<p>
+<img src="https://imgur.com/XW07OU8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then click advanced -> click everyone -> edit -> read only -> ok 
 
 
 <br />
