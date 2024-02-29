@@ -275,36 +275,11 @@ Then click advanced -> click everyone -> edit -> read only -> ok
 
 
 
-<p>
-<img src="https://imgur.com/tEsdVRS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Here we can practice creating and solving tickets 
-Link to that site is here http://localhost/osTicket/
-
-
-<br />
 
 
 
-<p>
-<img src="https://imgur.com/SB27sJP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Here's an example of some tickets that were solved and closed
 
 
-<br />
 
 
-<p>
-*Special note I forgot* You can give permissions Allow anyone to create tickets
-Admin Panel -> Settings -> User Settings
-Registration Required: Require registration and login to create tickets
 
-</p>
-<p>
-Here's an example of some tickets that were solved and closed
-
-
-<br />
