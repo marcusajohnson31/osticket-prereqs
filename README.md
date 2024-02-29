@@ -22,7 +22,7 @@ This project outlines a quick overview of the prerequisites and installation of 
 
 - Downloadable files for this tutorial
 - Instructions on how to create this lab
-- A way to practice creating and solving tickets
+  
 
 
 <h2>Installation Steps</h2>
