@@ -21,10 +21,9 @@ This project outlines a quick overview of the prerequisites and installation of 
 <h2>List of Prerequisites</h2>
 
 - Downloadable files for this tutorial
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Instructions on how to create this lab
+- A way to practice creating and solving tickets
+
 
 <h2>Installation Steps</h2>
 
@@ -201,10 +200,149 @@ Use this link to get to osTicket http://localhost/osTicket/scp/login.php
 
 
 <p>
-<img src="https://imgur.com/x7Y1txS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/HeBssxs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
-To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+You can configure Configure Roles
+Admin Panel -> Agents -> Roles
+Supreme Admin
+
+
+<br />
+
+
+<p>
+<img src="https://imgur.com/beagSMS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Departments
+Admin Panel -> Agents -> Departments
+System Administrators
+
+<br />
+
+
+
+<p>
+<img src="https://imgur.com/ub9uJqh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Teams
+Admin Panel -> Agents -> Teams
+Level I Support
+Level II Support
+
+
+<br />
+
+
+
+<p>
+<img src="https://imgur.com/zqHh3Wz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Agents (workers)
+Admin Panel -> Agents -> Add New
+Jane
+John
+
+
+
+<br />
+
+
+
+
+<p>
+<img src="https://imgur.com/qbIS4Dq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Users (customers)
+Agent Panel -> Users -> Add New
+Karen
+Ken
+
+
+<br />
+
+
+
+<p>
+<img src="https://imgur.com/nj0HytB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure SLA
+Admin Panel -> Manage -> SLA
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)
+
+
+<br />
+
+
+
+<p>
+<img src="https://imgur.com/MW419YK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Help Topics
+Admin Panel -> Manage -> Help Topics
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+
+
+
+<br />
+
+
+
+<p>
+<img src="https://imgur.com/nj0HytB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure SLA
+Admin Panel -> Manage -> SLA
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)
+
+
+<br />
+
+
+<p>
+<img src="https://imgur.com/tEsdVRS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here we can practice creating and solving tickets 
+Link to that site is here http://localhost/osTicket/
+
+
+<br />
+
+
+
+<p>
+<img src="https://imgur.com/SB27sJP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here's an example of some tickets that were solved and closed
+
+
+<br />
+
+
+<p>
+*Special note I forgot* You can give permissions Allow anyone to create tickets
+Admin Panel -> Settings -> User Settings
+Registration Required: Require registration and login to create tickets
+
+</p>
+<p>
+Here's an example of some tickets that were solved and closed
+
 
 <br />
